@@ -1,5 +1,5 @@
 import React from 'react'
-import Hadith from './hadith'
+import Hadith from './Hadith'
 const App = () => {
   return (
     <>
